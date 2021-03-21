@@ -1,0 +1,7 @@
+C:\Users\ELiF\source\repos\POSTFİX 2 VERİ YAPILARI\POSTFİX 2 VERİ YAPILARI\bin\Debug\POSTFİX 2 VERİ YAPILARI.exe.config
+C:\Users\ELiF\source\repos\POSTFİX 2 VERİ YAPILARI\POSTFİX 2 VERİ YAPILARI\bin\Debug\POSTFİX 2 VERİ YAPILARI.exe
+C:\Users\ELiF\source\repos\POSTFİX 2 VERİ YAPILARI\POSTFİX 2 VERİ YAPILARI\bin\Debug\POSTFİX 2 VERİ YAPILARI.pdb
+C:\Users\ELiF\source\repos\POSTFİX 2 VERİ YAPILARI\POSTFİX 2 VERİ YAPILARI\obj\Debug\POSTFİX 2 VERİ YAPILARI.csprojAssemblyReference.cache
+C:\Users\ELiF\source\repos\POSTFİX 2 VERİ YAPILARI\POSTFİX 2 VERİ YAPILARI\obj\Debug\POSTFİX 2 VERİ YAPILARI.csproj.CoreCompileInputs.cache
+C:\Users\ELiF\source\repos\POSTFİX 2 VERİ YAPILARI\POSTFİX 2 VERİ YAPILARI\obj\Debug\POSTFİX 2 VERİ YAPILARI.exe
+C:\Users\ELiF\source\repos\POSTFİX 2 VERİ YAPILARI\POSTFİX 2 VERİ YAPILARI\obj\Debug\POSTFİX 2 VERİ YAPILARI.pdb
